@@ -43,10 +43,7 @@ wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FR
 * ARCHIVOS LIBERADOS (DECENCRIPTADOS)
 ```
 
-```
-☆ https://t.me/admmanagerfree ☆
-
-☆ https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ ☆
+``` ☆
 ```
 
 **By: [ FULL SCRIPTS ⃘⃤꙰✰ ] VPS**
